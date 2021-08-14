@@ -1,4 +1,4 @@
-# LogoQuiz
+# LogoQuiz Android Project
 Language used: Kotlin <br/>
 Architecture: MVVM <br/>
 ## Further improvements to be done: 
