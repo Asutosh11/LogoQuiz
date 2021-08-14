@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhonepeMachineRound</string>
+    <string name="hint_logo_name_edit_text">Pick the letters below to name the logo</string>
+    <string name="logo_guessed_success_message">Company Name Correctly Guessed</string>
+</resources>
