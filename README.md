@@ -1,4 +1,5 @@
 # LogoQuiz
 Language used: Kotlin <br/>
 Architecture: MVVM <br/>
-TODO (If time permits): Unit test code for testing logic inside ViewModel
+## Further improvements to be done: 
+1. Unit test code for testing logic inside ViewModel
